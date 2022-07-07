@@ -1,0 +1,2 @@
+{'with': 'The with statement in Python is used for resource management and exception handling'} 
+{' class': 'indicates a python class.'} 
